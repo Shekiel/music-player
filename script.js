@@ -37,6 +37,11 @@ const songs = [
     displayName: '3 Little Birds',
     artist: 'Bob Marley',
   },
+  {
+    name: 'heal-the-world',
+    displayName: 'Heal The World',
+    artist: 'Michael Jackson',
+  },
 ];
 
 //Check if Playing
