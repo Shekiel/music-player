@@ -32,6 +32,11 @@ const songs = [
     displayName: 'Front Row (Remix)',
     artist: 'Metric/Jacinto Design',
   },
+  {
+    name: 'three-little-birds',
+    displayName: '3 Little Birds',
+    artist: 'Bob Marley',
+  },
 ];
 
 //Check if Playing
