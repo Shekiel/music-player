@@ -47,6 +47,11 @@ const songs = [
     displayName: 'Everytime We Touch',
     artist: 'Cascada',
   },
+  {
+    name: 'dont-stop-me-now',
+    displayName: "Don't Stop Me Now",
+    artist: 'Queen',
+  },
 ];
 
 //Check if Playing
