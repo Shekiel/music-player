@@ -42,6 +42,11 @@ const songs = [
     displayName: 'Heal The World',
     artist: 'Michael Jackson',
   },
+  {
+    name: 'every-time-we-touch',
+    displayName: 'Everytime We Touch',
+    artist: 'Cascada',
+  },
 ];
 
 //Check if Playing
