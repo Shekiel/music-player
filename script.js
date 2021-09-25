@@ -42,6 +42,11 @@ const songs = [
     displayName: 'Karma Chameleon',
     artist: 'Culture Club',
   },
+  {
+    name: 'wonderwall',
+    displayName: 'Wonderwall',
+    artist: 'Oasis',
+  },
 ];
 
 //Check if Playing
