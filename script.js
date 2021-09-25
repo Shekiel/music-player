@@ -37,6 +37,11 @@ const songs = [
     displayName: 'I Will Always Love You',
     artist: 'Whitney Houston',
   },
+  {
+    name: 'karma-chameleon',
+    displayName: 'Karma Chameleon',
+    artist: 'Culture Club',
+  },
 ];
 
 //Check if Playing
