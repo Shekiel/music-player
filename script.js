@@ -52,6 +52,11 @@ const songs = [
     displayName: "Don't Stop Me Now",
     artist: 'Queen',
   },
+  {
+    name: 'i-will-always-love-you',
+    displayName: 'I Will Always Love You',
+    artist: 'Whitney Houston',
+  },
 ];
 
 //Check if Playing
